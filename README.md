@@ -1,6 +1,6 @@
-## Welcome to my portfolio
+## Oops, they did it again! 
 
-I am an experienced marketing professional, breaking into data science!
+Customer churn, also known as customer attrition, is the act when a customer ends his or her relationship with a business. Every business wants to know which of its customers are loyal and which are about to churn. This classification is even more important in the telecom industry where it is often expensive to acquire a new customer in comparison to retaining an existing one. According to Harvard Business Review, it costs between 5 times and 25 times as much to find a new customer than to retain an existing one. Then, the problem at hand is to identify customers who are at verge of churning and identifying underlying patters. In this paper we model the data from a fictional telecom company called telco and identify the customers that are most likely to churn.
 
 ### Markdown
 
