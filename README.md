@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to my portfolio
 
-You can use the [editor on GitHub](https://github.com/daskhgk/portfolio/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I am an experienced marketing professional, breaking into data science!
 
 ### Markdown
 
